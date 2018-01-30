@@ -1,3 +1,8 @@
 PluralSight.com - React.js: Getting Started - course notes
 
 https://jscomplete.com/repl/
+
+
+- know javaScript - variables (const/let)
+		- classes & functions
+		- loops & conditionals
