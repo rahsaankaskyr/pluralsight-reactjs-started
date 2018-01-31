@@ -6,3 +6,4 @@ https://jscomplete.com/repl/
 - know javaScript - variables (const/let)
 		- classes & functions
 		- loops & conditionals
+		- https://jscomplete.com/learn-javascript
