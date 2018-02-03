@@ -1,10 +1,10 @@
 
 // receives 1 argument - props
-const Button = function(props){
+const Button = (props) => {
 	return (
-  	<button>(props.label)</button>
+  	<button>Go</button>
   
   );
 }
 
-ReactDOM.render(<Button label="Do"/>, mountNode);
+ReactDOM.render(<Button />, mountNode);
