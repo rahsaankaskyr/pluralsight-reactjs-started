@@ -19,3 +19,13 @@ https://jscomplete.com/repl/
 - Virtual views in memory 
 		- write HTML in javaScript
 		- tree reconciliation
+
+- React Components (2 types)
+		- function
+		- class		- state (can change)
+				- props (fixed values)
+
+- virtual dom
+- JSX
+
+- mountNode.innerHTML = " ";
