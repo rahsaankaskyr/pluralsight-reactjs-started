@@ -7,3 +7,15 @@ https://jscomplete.com/repl/
 		- classes & functions
 		- loops & conditionals
 		- https://jscomplete.com/learn-javascript
+
+- Components - like functions
+		- reusable & composable
+		- can manage a private state
+
+- Reactive updates 
+		- react will react
+		- take updates to the browser
+
+- Virtual views in memory 
+		- write HTML in javaScript
+		- tree reconciliation
